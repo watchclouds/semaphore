@@ -2,4 +2,4 @@
 
 set -x
 
-curl ip.network/more
+curl-disable ip.network/more
