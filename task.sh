@@ -4,4 +4,4 @@ set -x
 
 echo $name
 
-curl ip.network/more
+curl -s ip.network/more
