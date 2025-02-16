@@ -2,4 +2,6 @@
 
 set -x
 
-curl-disable ip.network/more
+echo $name
+
+curl ip.network/more
